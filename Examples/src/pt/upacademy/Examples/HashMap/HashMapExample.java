@@ -56,7 +56,7 @@ public class HashMapExample {
 	public Collection<Product> getAll() {
 		return myMap.values();
 	}
-<<<<<<< HEAD
+
 	
 	public Collection<Long> getAllIds() {
 		return myMap.keySet();
@@ -69,8 +69,7 @@ public class HashMapExample {
 			System.out.println(product);
 		}
 	}
-=======
->>>>>>> jscortes
+
 }
 
 class Product {
